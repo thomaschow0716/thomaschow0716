@@ -1,5 +1,4 @@
-### Hi there 👋
-
+- BSc graduate from USYD :australia:
 <!--
 **thomaschow0716/thomaschow0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
