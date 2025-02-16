@@ -1,10 +1,7 @@
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>](https://www.kaggle.com/thomaschow0716)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](www.linkedin.com/in/thomas-chow-4a25ba230)
 
-- Passionate data scientist 🔥
-- BSc graduate from USYD :australia:
-- Major in Financial Mathematics and Statistics :chart_with_upwards_trend:
-- Proficient in `Python` `SQL` `R` `Java` 💻
+
 
 <!--
 **thomaschow0716/thomaschow0716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
